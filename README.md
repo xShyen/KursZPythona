@@ -1,1 +1,1 @@
-# repozytoriumKursZPythona
+# Kurs z pythona
